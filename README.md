@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Himanish
+- 👀 I'm interested in data structures and algorithms atm
+- 📫 You can reach me at 3hheman@gmail.com
